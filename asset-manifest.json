@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gs-front/static/css/main.9bcfdf7c.css",
+    "main.js": "/gs-front/static/js/main.118b80d2.js",
+    "index.html": "/gs-front/index.html",
+    "main.9bcfdf7c.css.map": "/gs-front/static/css/main.9bcfdf7c.css.map",
+    "main.118b80d2.js.map": "/gs-front/static/js/main.118b80d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bcfdf7c.css",
+    "static/js/main.118b80d2.js"
+  ]
+}
