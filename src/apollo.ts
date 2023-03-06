@@ -88,9 +88,9 @@ const httpLink = new HttpLink({
   uri:
     // process.env.NODE_ENV !== "production"
     // ?
-    // "https://gs-back.fly.dev/",
-    // :
-    "http://192.168.1.12:8080/graphql",
+    "https://gs-back.fly.dev/",
+  // :
+  // "http://192.168.1.12:8080/graphql",
 });
 
 export const client = new ApolloClient({
